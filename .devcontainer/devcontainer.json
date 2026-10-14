@@ -1,4 +1,4 @@
 {
-  "name": "Basic Dev Environment",
+  "name": "MLH Codespaces Environment",
   "image": "mcr.microsoft.com/devcontainers/base:debian"
 }
